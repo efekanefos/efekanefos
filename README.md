@@ -23,9 +23,6 @@
 </p>
 
 
-
-<br />
-
 <h1 align="center">Languages and Tools:</h1>
 
 <p align="center">
