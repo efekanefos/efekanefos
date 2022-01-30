@@ -37,6 +37,9 @@
 <img align="center" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efekanefos" alt="efekanefos" /></a> </p>
+
+
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efekanefos&show_icons=true&locale=en&layout=compact" alt="efekanefos" /></p>
 <p>&nbsp;<img  align="left" src="https://github-readme-stats.vercel.app/api?username=efekanefos&show_icons=true&locale=en" alt="efekanefos" /></p>
 
