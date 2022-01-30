@@ -9,16 +9,16 @@
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-  <a href = "https://twitter.com/efekannefee">
-      <img align="center" alt="efekannefee | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-
   <a href = "https://www.instagram.com/efekannefee/">
-    <img align="center" alt="efekannefee | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="efekannefee | LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  </a>
+  
+  <a href = "https://twitter.com/efekannefee">
+      <img align="center" alt="efekannefee | Twitter" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
   </a>
 
   <a href = "https://www.linkedin.com/in/efekan-efe/">
-    <img align="center" alt="efekannefee | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="center" alt="efekannefee | Instagram" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
   </a>
 </p>
 
