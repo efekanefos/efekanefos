@@ -37,9 +37,9 @@
 <img align="center" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
-<p><img display="inline-block" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efekanefos&show_icons=true&locale=en&layout=compact" alt="efekanefos" /></p>
-<p>&nbsp;<img display="inline-block" align="right" src="https://github-readme-stats.vercel.app/api?username=efekanefos&show_icons=true&locale=en" alt="efekanefos" /></p>
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efekanefos&show_icons=true&locale=en&layout=compact" alt="efekanefos" /></p>
+<p>&nbsp;<img  align="left" src="https://github-readme-stats.vercel.app/api?username=efekanefos&show_icons=true&locale=en" alt="efekanefos" /></p>
 
 <br/>
 
-<p align="center"><img display="inline-block" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efekanefos&" alt="efekanefos" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=efekanefos&" alt="efekanefos" />
