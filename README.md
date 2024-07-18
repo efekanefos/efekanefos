@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Efekan 👋</h1>
-<h2 align="center">I am a Lifelong Learner and a Junior Frontend Developer</h2>
+<h2 align="center">I am a Lifelong Learner and a Frontend Developer</h2>
 
 <p align="center">🌱 I’m currently learning React</p>
 <p align="center">🥅 2022 Goals: Be a better JavaScipt && React Coder</p>
