@@ -3,7 +3,7 @@
 <h2 align="center">I am a Lifelong Learner and a Frontend Developer</h2>
 
 <p align="center">🌱 I’m currently learning React and Typescript</p>
-<p align="center">🥅 2022 Goals: Be a better JavaScipt && React Coder</p>
+<p align="center">🥅 2025 Goals: Be a better React && Wordpress Developer</p>
 <p align="center">⚡ Fun fact: I love to watch anime and read manga</p>
 
 
